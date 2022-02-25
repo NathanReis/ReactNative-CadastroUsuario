@@ -19,6 +19,8 @@ Foram aplicadas algumas validações:
 Caso você não queira saber de instalar Node, Yarn, Expo e tudo mais que é
 preciso, siga as instruções de como executar [via Docker](#usando-docker).
 
+![Amostras](https://user-images.githubusercontent.com/53984490/155630903-4bc26f34-cadb-4210-9a67-fe8192edf7af.png)
+
 # Usando Docker
 
 ## Construindo a imagem
